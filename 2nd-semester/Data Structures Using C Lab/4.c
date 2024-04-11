@@ -105,7 +105,8 @@ float infixEvaluation(char infix[]) {
 }
 int main() {
     int choice;
-    printf("1. Evaluate Prefix Expression\n2. Evaluate Postfix Expression\n3. Evaluate Infix Expression\nEnter your choice: ");
+    printf("1. Evaluate Prefix Expression\n2. Evaluate Postfix Expression\n3. Evaluate Infix Expression\n");
+    printf("Enter your choice : ");
     scanf("%d", &choice);
     switch(choice) {
         case 1: {
