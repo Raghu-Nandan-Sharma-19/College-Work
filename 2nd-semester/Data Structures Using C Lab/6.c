@@ -1,8 +1,5 @@
 // Implement a Queue using Array and develop functions to perform enqueue and dequeue operations.
 #include <stdio.h>
-void enqueue(int);
-int dequeue();
-void displayQueue();
 int queue[100],max,i,rear=-1,front=-1,choice;
 void enqueue(int number) {
     if (rear == max - 1) {
