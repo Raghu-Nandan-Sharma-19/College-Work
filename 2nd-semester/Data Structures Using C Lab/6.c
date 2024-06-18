@@ -50,5 +50,5 @@ int main() {
         }
     }
     displayQueue();
-        return 0;
+    return 0;
 }
