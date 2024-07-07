@@ -20,9 +20,7 @@ void compressString(const char* str) {
 }
 
 int main() {
-    char str[1000];
-    printf("Enter a string: ");
-    scanf("%s", str);
+    const char* str = "aaAbbB";
     compressString(str);
     return 0;
 }
