@@ -7,3 +7,4 @@
 # 1st semester : C programming Language  
 # 2nd semester : Data Structures using C Programming Language
 # 3rd semester : Operating System 
+# 4th semester : Database Management System Lab
