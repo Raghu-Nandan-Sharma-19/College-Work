@@ -12,4 +12,4 @@ CREATE TABLE Students (
 	Email VARCHAR(100)
 );
 
-desc Students;
+desc Students
